@@ -1,0 +1,96 @@
+
+ [
+     {
+         
+         "Sl_No": 1,
+         "Name" :"Rice",
+         "Quantity" :5,
+         "Unit" :"kg",
+         "Department":"Grains",
+         "Notes" : "Fresh grains"
+
+     },
+     {
+        "Sl_No": 2,
+        "Name" :"Chilli powder",
+        "Quantity" :1,
+        "Unit" :"kg",
+        "Department":"Spices",
+        "Notes" : "Kashmiri"
+
+    },
+    {
+        "Sl_No": 3,
+        "Name" :"Salt",
+        "Quantity" :0.5,
+        "Unit" :"kg",
+        "Department":"Preserves",
+        "Notes" : "Salty"
+
+    },
+    {
+        "Sl_No": 4,
+        "Name" :"Sugar",
+        "Quantity" :2,
+        "Unit" :"kg",
+        "Department":"Baking",
+        "Notes" : "Sweet"
+
+    },
+    {
+        "Sl_No": 5,
+        "Name" :"Milk",
+        "Quantity" :2,
+        "Unit" :"L",
+        "Department":"Dairy",
+        "Notes" : "Fresh"
+
+    },
+    {
+        "Sl_No": 6,
+        "Name" :"Tomato",
+        "Quantity" :250,
+        "Unit" :"g",
+        "Department":"Vegetables",
+        "Notes" : "Fresh"
+
+    },
+    {
+        "Sl_No": 7,
+        "Name" :"Fish",
+        "Quantity" :1,
+        "Unit" :"kg",
+        "Department":"Meat",
+        "Notes" : "Fresh"
+
+    },
+    {
+        "Sl_No": 8,
+        "Name" :"Apple",
+        "Quantity" :1,
+        "Unit" :"kg",
+        "Department":"Fruits",
+        "Notes" : "Fresh"
+
+    },
+    {
+        "Sl_No": 9,
+        "Name" :"Egg",
+        "Quantity" :10,
+        "Unit" :"No:",
+        "Department":"Dairy",
+        "Notes" : "NA"
+
+    },
+    {
+        "Sl_No": 10,
+        "Name" :"Pepper",
+        "Quantity" :250,
+        "Unit" :"g",
+        "Department":"Spices",
+        "Notes" : "NA"
+
+    }
+    
+    
+ ]
